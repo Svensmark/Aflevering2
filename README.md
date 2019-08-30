@@ -8,8 +8,11 @@ Mine besvarelser ligger samlet i PDF filer.
 Min droplet med certicate sammen med links til alle opgaver
 
 svense.dk/index1.html
+
 svense.dk/HTTPHeaders/GetHttPHeaders
+
 svense.dk/Sessions/SessionDemo
+
 svense.dk/Cookies/CookieDemo
 
 
