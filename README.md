@@ -3,6 +3,13 @@
 Besvarelser af opgaver ligger som PDF i deres respektive mapper, sorteret efter dato!
 Alle Web Projects ligger også i de mapper de hører til.
 
-Min droplet med certicate og en opgave fra onsdag d. 28-08.
-(Cookies opgaven, er også funktionel med cookies).
+Mine besvarelser ligger samlet i PDF filer.
+
+Min droplet med certicate sammen med links til alle opgaver
+
+svense.dk/index1.html
+svense.dk/HTTPHeaders/GetHttPHeaders
+svense.dk/Sessions/SessionDemo
 svense.dk/Cookies/CookieDemo
+
+
